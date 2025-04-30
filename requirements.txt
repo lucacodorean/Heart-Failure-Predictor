@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+kaggle
+matplotlib
+seaborn
+xgboost
+lightgbm
+imbalanced-learn
+optuna
+kagglehub
+plotly
+torch
+tensorboard

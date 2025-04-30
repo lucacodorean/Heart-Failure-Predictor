@@ -1,0 +1,5 @@
+./runs/
+./venv/
+./outputs/data_viualization/*
+./data/preproessed/*
+./data/raw/*
