@@ -2,7 +2,7 @@ import  torch
 from    torch.utils.data import Dataset
 
 
-class HeartFailureDataset(Dataset):
+class StreamingPreferencesDataset(Dataset):
 
     def __init__(self, X, y):
 

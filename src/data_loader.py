@@ -7,6 +7,8 @@ def load_csv(kaggle_path: str, csv: str):
     dataset_path = kagglehub.dataset_download(kaggle_path)
     csv_file = dataset_path + "/" +csv
     df = pd.read_csv(csv_file)
+
+    df = df.drop(columns=["User_ID"]);
     
     return df
 
@@ -36,7 +38,7 @@ def split_csv(df: pd.DataFrame, target_column: str, output_dir: str, test_size: 
 
 
 if __name__ == "__main__":
-    df = load_csv(kaggle_path="fedesoriano/heart-failure-prediction", csv="heart.csv")    
-    df.drop("HeartDisease", axis=1)
+    df = load_csv(kaggle_path="atharvasoundankar/global-music-streaming-trends-and-listener-insights", csv="Global_Music_Streaming_Listener_Preferences.csv")    
+    df.drop("Listening Time (Morning/Afternoon/Night)", axis=1)
 
-    train_df, val_df, test_df = split_csv(df, output_dir="../data/raw", target_column="HeartDisease")
+    train_df, val_df, test_df = split_csv(df, output_dir="../data/raw", target_column="Listening Time (Morning/Afternoon/Night)")

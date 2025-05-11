@@ -1,148 +1,801 @@
-Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
-56,M,ASY,120,0,0,ST,100,Y,-1.0,Down,1
-45,F,ATA,180,295,0,Normal,180,N,0.0,Up,0
-37,M,ASY,130,315,0,Normal,158,N,0.0,Up,0
-47,M,ASY,110,0,1,ST,149,N,2.1,Up,1
-45,M,ASY,142,309,0,LVH,147,Y,0.0,Flat,1
-52,M,ASY,140,266,0,Normal,134,Y,2.0,Flat,1
-57,M,ASY,130,311,1,ST,148,Y,2.0,Flat,1
-65,M,ASY,170,263,1,Normal,112,Y,2.0,Flat,1
-64,M,NAP,125,309,0,Normal,131,Y,1.8,Flat,1
-55,M,ASY,172,260,0,Normal,73,N,2.0,Flat,1
-45,M,ATA,140,224,1,Normal,122,N,0.0,Up,0
-58,M,ASY,128,216,0,LVH,131,Y,2.2,Flat,1
-54,M,ASY,122,286,0,LVH,116,Y,3.2,Flat,1
-59,M,TA,170,288,0,LVH,159,N,0.2,Flat,1
-45,M,TA,110,264,0,Normal,132,N,1.2,Flat,1
-55,F,ATA,130,394,0,LVH,150,N,0.0,Up,0
-52,M,NAP,122,0,0,Normal,110,Y,2.0,Down,1
-58,M,ASY,110,198,0,Normal,110,N,0.0,Flat,1
-69,F,TA,140,239,0,Normal,151,N,1.8,Up,0
-61,M,NAP,200,0,1,ST,70,N,0.0,Flat,1
-64,M,NAP,140,335,0,Normal,158,N,0.0,Up,1
-61,M,ASY,141,292,0,ST,115,Y,1.7,Flat,1
-57,F,TA,130,308,0,Normal,98,N,1.0,Flat,0
-34,F,ATA,130,161,0,Normal,190,N,0.0,Up,0
-65,M,ASY,135,254,0,LVH,127,N,2.8,Flat,1
-69,M,NAP,140,254,0,LVH,146,N,2.0,Flat,1
-51,M,ASY,130,0,1,Normal,170,N,-0.7,Up,1
-60,F,ASY,158,305,0,LVH,161,N,0.0,Up,1
-58,M,ATA,120,284,0,LVH,160,N,1.8,Flat,1
-62,F,ASY,150,244,0,Normal,154,Y,1.4,Flat,1
-35,M,NAP,123,161,0,ST,153,N,-0.1,Up,0
-41,M,ATA,120,157,0,Normal,182,N,0.0,Up,0
-51,M,ASY,132,227,1,ST,138,N,0.2,Up,0
-58,M,ATA,130,251,0,Normal,110,N,0.0,Up,0
-56,M,ASY,130,283,1,LVH,103,Y,1.6,Down,1
-65,F,NAP,140,417,1,LVH,157,N,0.8,Up,0
-47,F,ASY,120,205,0,Normal,98,Y,2.0,Flat,1
-54,F,NAP,135,304,1,Normal,170,N,0.0,Up,0
-51,M,ASY,131,152,1,LVH,130,Y,1.0,Flat,1
-53,M,ASY,154,0,1,ST,140,Y,1.5,Flat,1
-52,M,ATA,134,201,0,Normal,158,N,0.8,Up,0
-42,M,NAP,120,228,0,Normal,152,Y,1.5,Flat,0
-53,M,ASY,180,285,0,ST,120,Y,1.5,Flat,1
-50,M,NAP,129,196,0,Normal,163,N,0.0,Up,0
-66,F,TA,150,226,0,Normal,114,N,2.6,Down,0
-61,M,ASY,140,207,0,LVH,138,Y,1.9,Up,1
-58,F,ASY,130,197,0,Normal,131,N,0.6,Flat,0
-55,M,ASY,120,226,0,LVH,127,Y,1.7,Down,1
-50,M,ASY,150,215,0,Normal,140,Y,0.0,Up,0
-61,F,ASY,130,294,0,ST,120,Y,1.0,Flat,0
-35,M,ASY,126,282,0,LVH,156,Y,0.0,Up,1
-47,M,NAP,140,193,0,Normal,145,Y,1.0,Flat,1
-46,M,NAP,120,230,0,Normal,150,N,0.0,Up,0
-73,F,NAP,160,0,0,ST,121,N,0.0,Up,1
-51,M,NAP,135,160,0,Normal,150,N,2.0,Flat,1
-53,M,ASY,125,0,1,Normal,120,N,1.5,Up,1
-43,M,ASY,115,0,0,Normal,145,Y,2.0,Flat,1
-49,M,ASY,140,185,0,Normal,130,N,0.0,Up,0
-47,M,NAP,110,0,1,Normal,120,Y,0.0,Flat,1
-50,M,ASY,144,349,0,LVH,120,Y,1.0,Up,1
-69,M,ASY,140,110,1,Normal,109,Y,1.5,Flat,1
-55,M,NAP,136,228,0,ST,124,Y,1.6,Flat,1
-35,F,TA,120,160,0,ST,185,N,0.0,Up,0
-61,M,ATA,139,283,0,Normal,135,N,0.3,Up,0
-52,M,ASY,108,233,1,Normal,147,N,0.1,Up,0
-38,M,ASY,110,289,0,Normal,105,Y,1.5,Down,1
-66,M,ATA,160,246,0,Normal,120,Y,0.0,Flat,1
-48,F,ATA,120,284,0,Normal,120,N,0.0,Up,0
-60,M,NAP,180,0,0,ST,140,Y,1.5,Flat,0
-51,F,NAP,120,295,0,LVH,157,N,0.6,Up,0
-58,F,ATA,180,393,0,Normal,110,Y,1.0,Flat,1
-42,M,ASY,105,0,1,Normal,128,Y,-1.5,Down,1
-55,M,ATA,110,214,1,ST,180,N,0.4,Up,0
-62,F,TA,160,193,0,Normal,116,N,0.0,Up,0
-44,M,ATA,130,219,0,LVH,188,N,0.0,Up,0
-38,M,ASY,110,196,0,Normal,166,N,0.0,Flat,1
-43,F,ATA,120,215,0,ST,175,N,0.0,Up,0
-65,M,TA,140,252,0,Normal,135,N,0.3,Up,0
-67,F,NAP,152,277,0,Normal,172,N,0.0,Up,0
-37,M,ASY,140,207,0,Normal,130,Y,1.5,Flat,1
-54,M,ASY,140,216,0,Normal,105,N,1.5,Flat,1
-55,M,ATA,160,292,1,Normal,143,Y,2.0,Flat,1
-61,M,NAP,150,243,1,Normal,137,Y,1.0,Flat,0
-61,M,ASY,125,292,0,ST,115,Y,0.0,Up,0
-48,M,ASY,160,268,0,Normal,103,Y,1.0,Flat,1
-49,F,ASY,130,269,0,Normal,163,N,0.0,Up,0
-62,F,ASY,138,294,1,Normal,106,N,1.9,Flat,1
-57,M,ASY,165,289,1,LVH,124,N,1.0,Flat,1
-53,M,ATA,120,181,0,Normal,132,N,0.0,Up,0
-52,M,ATA,140,100,0,Normal,138,Y,0.0,Up,0
-39,M,ASY,110,280,0,Normal,150,N,0.0,Flat,1
-46,M,ASY,115,0,0,Normal,113,Y,1.5,Flat,1
-57,M,NAP,150,126,1,Normal,173,N,0.2,Up,0
-67,F,ASY,106,223,0,Normal,142,N,0.3,Up,0
-49,F,ATA,110,208,0,Normal,160,N,0.0,Up,0
-40,M,TA,140,199,0,Normal,178,Y,1.4,Up,0
-43,F,ATA,120,266,0,Normal,118,N,0.0,Up,0
-46,M,ATA,140,275,0,Normal,165,Y,0.0,Up,0
-68,M,ASY,144,193,1,Normal,141,N,3.4,Flat,1
-44,M,ATA,120,184,0,Normal,142,N,1.0,Flat,0
-59,M,ASY,154,0,0,ST,131,Y,1.5,Up,0
-41,F,ATA,126,306,0,Normal,163,N,0.0,Up,0
-58,M,ASY,120,0,0,LVH,106,Y,1.5,Down,1
-43,M,ASY,132,247,1,LVH,143,Y,0.1,Flat,1
-39,M,ATA,120,241,0,ST,146,N,2.0,Up,0
-51,F,ASY,114,258,1,LVH,96,N,1.0,Up,0
-65,M,ASY,150,235,0,Normal,120,Y,1.5,Flat,1
-65,M,ASY,145,0,1,ST,67,N,0.7,Flat,1
-53,F,ATA,140,216,0,Normal,142,Y,2.0,Flat,0
-55,M,NAP,136,245,1,ST,131,Y,1.2,Flat,1
-59,M,NAP,125,0,1,Normal,175,N,2.6,Flat,1
-44,M,ASY,150,412,0,Normal,170,N,0.0,Up,0
-57,M,ASY,139,277,1,ST,118,Y,1.9,Flat,1
-54,M,ASY,125,216,0,Normal,140,N,0.0,Flat,1
-52,M,ASY,128,204,1,Normal,156,Y,1.0,Flat,1
-54,F,ATA,120,230,1,Normal,140,N,0.0,Up,0
-61,M,TA,134,234,0,Normal,145,N,2.6,Flat,1
-64,F,ASY,200,0,0,Normal,140,Y,1.0,Flat,1
-49,M,ASY,128,212,0,Normal,96,Y,0.0,Flat,1
-40,M,NAP,106,240,0,Normal,80,Y,0.0,Up,0
-52,M,ASY,125,212,0,Normal,168,N,1.0,Up,1
-52,M,ATA,160,196,0,Normal,165,N,0.0,Up,0
-71,F,ASY,112,149,0,Normal,125,N,1.6,Flat,0
-55,F,ASY,128,205,0,ST,130,Y,2.0,Flat,1
-51,M,ASY,95,0,1,Normal,126,N,2.2,Flat,1
-56,M,ASY,125,249,1,LVH,144,Y,1.2,Flat,1
-44,M,ATA,120,263,0,Normal,173,N,0.0,Up,0
-55,M,ASY,135,204,1,ST,126,Y,1.1,Flat,1
-59,M,ASY,170,326,0,LVH,140,Y,3.4,Down,1
-69,M,ASY,135,0,0,Normal,130,N,0.0,Flat,1
-45,M,NAP,110,0,0,Normal,138,N,-0.1,Up,0
-71,M,NAP,144,221,0,Normal,108,Y,1.8,Flat,1
-38,M,ASY,150,0,1,Normal,120,Y,0.7,Flat,1
-63,M,ASY,140,260,0,ST,112,Y,3.0,Flat,1
-50,M,ASY,145,264,0,Normal,150,N,0.0,Flat,1
-52,F,ATA,140,225,0,Normal,140,N,0.0,Up,0
-57,M,ATA,154,232,0,LVH,164,N,0.0,Up,1
-63,M,ASY,140,187,0,LVH,144,Y,4.0,Up,1
-37,M,ATA,130,283,0,ST,98,N,0.0,Up,0
-63,M,NAP,130,0,1,ST,160,N,3.0,Flat,0
-55,M,ATA,140,0,0,ST,150,N,0.2,Up,0
-52,M,ASY,135,0,1,Normal,128,Y,2.0,Flat,1
-42,F,NAP,115,211,0,ST,137,N,0.0,Up,0
-58,M,ASY,125,300,0,LVH,171,N,0.0,Up,1
-59,M,ASY,138,271,0,LVH,182,N,0.0,Up,0
-38,M,ATA,140,297,0,Normal,150,N,0.0,Up,0
-47,M,TA,110,249,0,Normal,150,N,0.0,Up,0
+Age,Country,Streaming Platform,Top Genre,Minutes Streamed Per Day,Number of Songs Liked,Most Played Artist,Subscription Type,Listening Time (Morning/Afternoon/Night),Discover Weekly Engagement (%),Repeat Song Rate (%)
+55,UK,Amazon Music,Hip-Hop,97,428,Post Malone,Premium,Afternoon,44.36,48.49
+51,USA,Amazon Music,Country,562,384,Bad Bunny,Premium,Night,25.67,53.6
+53,Canada,Deezer,Country,442,447,Bad Bunny,Free,Afternoon,50.59,78.34
+19,India,Deezer,Jazz,252,125,Taylor Swift,Premium,Afternoon,88.85,6.04
+19,South Korea,Amazon Music,Rock,238,242,BTS,Free,Night,48.12,61.72
+45,South Korea,Deezer,Rock,378,218,Drake,Free,Night,18.74,63.81
+49,UK,Spotify,Classical,382,4,Bad Bunny,Premium,Morning,76.42,9.01
+37,Japan,Spotify,Hip-Hop,111,121,BTS,Premium,Morning,81.93,65.8
+35,South Korea,Apple Music,R&B,209,107,Bad Bunny,Free,Morning,26.65,52.94
+58,Germany,YouTube,EDM,516,374,Post Malone,Free,Morning,79.11,55.77
+47,France,YouTube,R&B,175,107,The Weeknd,Premium,Night,70.41,42.95
+25,UK,Tidal,Reggae,369,477,Drake,Premium,Morning,13.66,10.18
+51,Australia,Apple Music,Metal,18,216,Adele,Free,Afternoon,75.58,38.97
+26,South Korea,Spotify,R&B,10,289,Ed Sheeran,Free,Afternoon,40.6,61.71
+49,India,Apple Music,Hip-Hop,395,64,Dua Lipa,Premium,Night,47.23,22.89
+18,India,YouTube,Hip-Hop,295,341,Dua Lipa,Free,Night,86.63,47.02
+45,India,Tidal,R&B,477,305,Billie Eilish,Free,Afternoon,88.09,75.39
+44,Brazil,Amazon Music,Metal,179,24,Post Malone,Free,Night,26.46,56.13
+53,India,Deezer,R&B,560,349,Billie Eilish,Free,Afternoon,63.16,20.97
+37,Japan,Apple Music,Metal,322,15,Drake,Premium,Night,18.08,20.86
+26,Germany,Deezer,Hip-Hop,314,233,Ed Sheeran,Free,Morning,67.63,50.36
+30,UK,Tidal,R&B,469,421,Billie Eilish,Premium,Afternoon,31.64,62.72
+55,Canada,Deezer,Classical,569,75,Dua Lipa,Premium,Night,53.36,55.25
+34,Australia,Tidal,Hip-Hop,396,78,Billie Eilish,Premium,Afternoon,16.11,50.67
+35,India,Deezer,Rock,287,461,Bad Bunny,Free,Night,54.28,65.77
+43,Germany,Spotify,EDM,255,190,Adele,Free,Night,18.24,50.86
+23,Australia,Amazon Music,Hip-Hop,517,344,BTS,Free,Morning,66.86,49.34
+42,Japan,Amazon Music,EDM,440,368,Taylor Swift,Free,Morning,57.13,44.7
+23,Brazil,Tidal,R&B,435,320,Dua Lipa,Free,Night,28.8,17.93
+42,Australia,Tidal,Pop,473,348,Bad Bunny,Free,Night,11.26,40.18
+43,India,Tidal,Country,542,16,Adele,Free,Morning,55.2,10.56
+59,France,Tidal,Pop,523,495,Drake,Free,Night,84.29,16.0
+39,UK,YouTube,Jazz,54,337,Post Malone,Premium,Morning,74.69,5.1
+26,UK,Apple Music,Country,300,236,Ed Sheeran,Free,Morning,87.81,70.8
+28,Brazil,Amazon Music,Classical,253,188,The Weeknd,Premium,Afternoon,32.39,12.53
+36,UK,Tidal,Rock,483,349,Taylor Swift,Premium,Morning,71.9,77.63
+50,Canada,YouTube,Reggae,384,224,Bad Bunny,Premium,Afternoon,45.59,19.01
+49,UK,YouTube,R&B,250,191,Adele,Premium,Night,23.79,30.21
+21,UK,Amazon Music,EDM,55,188,Drake,Free,Morning,42.79,6.36
+19,Australia,Tidal,Jazz,235,56,Adele,Free,Afternoon,18.72,68.37
+46,UK,YouTube,Hip-Hop,435,69,Bad Bunny,Premium,Morning,85.2,72.46
+49,South Korea,Spotify,Classical,504,445,The Weeknd,Free,Night,13.34,23.56
+21,South Korea,YouTube,EDM,69,314,BTS,Premium,Morning,19.69,28.15
+40,Germany,Apple Music,Rock,506,372,Taylor Swift,Premium,Morning,43.08,26.24
+44,Germany,Apple Music,Classical,358,40,Drake,Free,Night,81.96,41.75
+46,South Korea,YouTube,Rock,551,114,Post Malone,Premium,Morning,14.25,39.84
+40,USA,YouTube,EDM,194,107,Adele,Premium,Morning,11.15,53.35
+39,UK,Tidal,R&B,299,484,Adele,Premium,Afternoon,30.06,16.48
+33,Canada,Tidal,R&B,224,259,Billie Eilish,Premium,Night,61.34,11.73
+16,Japan,Deezer,Hip-Hop,90,132,Dua Lipa,Premium,Morning,47.44,66.48
+45,South Korea,Amazon Music,Reggae,556,336,Adele,Premium,Night,33.32,10.08
+53,Brazil,YouTube,Hip-Hop,507,148,Billie Eilish,Premium,Afternoon,87.59,6.23
+31,Brazil,Tidal,Hip-Hop,81,286,Ed Sheeran,Free,Afternoon,52.67,37.22
+53,USA,Deezer,Country,432,445,Taylor Swift,Premium,Afternoon,57.22,53.08
+42,India,Spotify,Reggae,351,270,BTS,Premium,Night,75.38,62.87
+38,UK,YouTube,Metal,122,274,Ed Sheeran,Premium,Afternoon,25.65,38.33
+55,Canada,Tidal,Classical,486,495,Adele,Premium,Morning,23.98,49.59
+19,Brazil,Apple Music,EDM,33,444,Drake,Free,Morning,39.72,27.94
+60,South Korea,Deezer,Pop,335,433,Dua Lipa,Premium,Night,22.22,43.5
+15,Canada,Apple Music,Metal,26,257,Billie Eilish,Free,Night,20.12,26.04
+18,Brazil,Deezer,Jazz,557,488,Bad Bunny,Free,Morning,79.46,31.78
+42,Canada,Apple Music,Metal,533,494,Drake,Premium,Afternoon,23.04,40.68
+31,Japan,Tidal,Reggae,572,339,Adele,Free,Night,27.18,61.66
+43,UK,Tidal,R&B,52,127,Dua Lipa,Premium,Morning,51.32,56.09
+26,Australia,Deezer,Jazz,20,357,Ed Sheeran,Free,Night,28.38,42.95
+36,UK,Amazon Music,Country,590,163,Ed Sheeran,Premium,Night,28.63,6.13
+21,France,Amazon Music,R&B,385,479,Billie Eilish,Free,Night,39.68,15.8
+25,France,YouTube,Pop,152,277,Dua Lipa,Free,Afternoon,72.78,40.8
+23,India,Apple Music,Reggae,498,246,Adele,Premium,Afternoon,61.73,67.92
+59,South Korea,Amazon Music,Reggae,311,428,BTS,Premium,Night,74.86,20.09
+24,France,Apple Music,Hip-Hop,469,392,Adele,Premium,Morning,86.51,39.34
+20,India,YouTube,EDM,31,401,Dua Lipa,Free,Morning,73.93,57.75
+21,Brazil,Spotify,Classical,41,462,Taylor Swift,Free,Morning,38.1,77.82
+17,Canada,Deezer,Metal,176,57,Adele,Free,Morning,23.81,73.79
+19,South Korea,Deezer,Metal,484,204,Post Malone,Premium,Afternoon,52.15,54.08
+20,Germany,Apple Music,Country,74,126,The Weeknd,Free,Morning,25.5,25.68
+35,India,Deezer,Rock,140,418,Adele,Free,Night,70.81,17.13
+59,Canada,Tidal,Hip-Hop,318,147,Adele,Premium,Afternoon,45.75,26.76
+60,Brazil,YouTube,Pop,219,346,BTS,Premium,Morning,11.8,38.31
+51,South Korea,Tidal,EDM,445,426,Bad Bunny,Premium,Afternoon,25.23,17.07
+26,Germany,Deezer,Metal,246,319,Post Malone,Free,Afternoon,25.33,27.42
+45,South Korea,Amazon Music,Hip-Hop,478,161,The Weeknd,Premium,Afternoon,10.21,7.9
+29,India,Amazon Music,Country,148,455,Drake,Premium,Night,77.54,33.25
+58,India,YouTube,EDM,539,433,Dua Lipa,Premium,Morning,38.53,13.53
+53,USA,Tidal,Metal,55,129,Adele,Free,Night,19.49,72.85
+34,UK,Tidal,Reggae,174,401,Dua Lipa,Free,Night,66.2,79.07
+49,Japan,Apple Music,Rock,140,283,Adele,Premium,Morning,34.22,53.63
+31,USA,Tidal,Classical,230,466,Taylor Swift,Free,Afternoon,36.45,69.16
+56,Australia,Tidal,Country,394,365,Drake,Free,Morning,72.86,67.09
+25,India,Amazon Music,Country,137,487,Drake,Free,Afternoon,85.45,8.18
+34,France,Spotify,Reggae,454,131,Dua Lipa,Premium,Night,27.73,38.29
+50,Canada,Tidal,R&B,337,308,Bad Bunny,Free,Afternoon,42.71,51.87
+21,Brazil,YouTube,Hip-Hop,200,240,Taylor Swift,Premium,Night,61.88,69.77
+30,South Korea,Spotify,Metal,87,257,Adele,Free,Afternoon,33.38,69.93
+53,India,Spotify,R&B,176,179,Drake,Free,Afternoon,49.16,15.63
+51,South Korea,YouTube,EDM,34,153,The Weeknd,Premium,Morning,70.7,63.91
+29,Canada,YouTube,Jazz,491,433,Dua Lipa,Free,Morning,47.0,16.59
+15,Japan,Apple Music,Jazz,504,82,Taylor Swift,Free,Afternoon,38.76,26.95
+50,India,Spotify,Metal,94,23,Ed Sheeran,Free,Afternoon,66.45,61.84
+48,Germany,Apple Music,Reggae,167,374,Adele,Free,Morning,77.87,73.14
+43,South Korea,Spotify,EDM,222,70,BTS,Premium,Night,88.91,64.34
+16,Canada,Amazon Music,Jazz,103,379,Adele,Free,Afternoon,69.84,12.49
+15,South Korea,Amazon Music,Pop,263,55,Bad Bunny,Premium,Night,51.89,62.46
+59,USA,YouTube,Reggae,372,348,Drake,Premium,Night,31.9,33.28
+22,India,Spotify,Metal,234,236,Taylor Swift,Free,Night,16.79,63.46
+57,Germany,Spotify,Country,143,238,Bad Bunny,Free,Night,21.39,15.73
+32,Brazil,Deezer,Pop,353,126,Ed Sheeran,Free,Morning,83.3,71.36
+26,Japan,Spotify,Country,334,59,Billie Eilish,Premium,Morning,61.96,42.31
+60,UK,Apple Music,Rock,381,57,BTS,Free,Morning,10.68,18.23
+55,Brazil,Amazon Music,Classical,466,39,Drake,Premium,Morning,27.16,79.3
+41,UK,Apple Music,Country,375,40,Adele,Premium,Night,82.94,71.61
+53,Brazil,Amazon Music,Metal,350,133,Drake,Free,Night,74.78,19.01
+22,Brazil,Tidal,R&B,585,133,Adele,Free,Afternoon,50.41,53.54
+42,USA,Spotify,Rock,82,289,Taylor Swift,Premium,Night,24.29,18.98
+41,USA,Tidal,Jazz,467,247,Taylor Swift,Free,Afternoon,77.34,37.44
+50,UK,Spotify,Reggae,313,427,Taylor Swift,Free,Morning,19.55,23.15
+31,Australia,Spotify,Pop,457,174,Ed Sheeran,Premium,Afternoon,34.72,77.22
+37,Australia,YouTube,Reggae,589,61,The Weeknd,Premium,Night,12.39,69.37
+55,USA,Tidal,Reggae,73,225,Billie Eilish,Premium,Afternoon,28.52,38.41
+44,India,Tidal,Country,85,220,Drake,Free,Morning,74.79,77.2
+51,Australia,Tidal,Jazz,318,247,Billie Eilish,Free,Afternoon,77.02,19.34
+38,India,Deezer,Jazz,65,285,The Weeknd,Premium,Night,71.16,74.0
+48,Canada,YouTube,Pop,154,42,Ed Sheeran,Free,Night,88.9,10.53
+49,Brazil,Tidal,Classical,393,94,Ed Sheeran,Premium,Afternoon,71.45,58.02
+33,Japan,YouTube,Jazz,30,64,Dua Lipa,Free,Morning,28.17,27.59
+36,Japan,Apple Music,Metal,408,332,BTS,Free,Morning,89.2,32.54
+52,South Korea,Tidal,Rock,461,95,Ed Sheeran,Free,Night,78.23,58.43
+20,Japan,YouTube,Reggae,478,343,Ed Sheeran,Free,Night,36.18,15.94
+59,Germany,Deezer,Hip-Hop,546,64,Billie Eilish,Free,Night,35.83,11.62
+35,Australia,Spotify,Pop,458,324,Ed Sheeran,Free,Morning,65.78,52.34
+28,Germany,Tidal,Pop,563,186,The Weeknd,Premium,Morning,12.77,32.15
+45,Germany,Deezer,EDM,209,59,Drake,Free,Morning,36.0,43.59
+13,Japan,Amazon Music,Classical,109,17,Bad Bunny,Premium,Afternoon,74.29,59.93
+30,India,Tidal,EDM,48,152,Post Malone,Premium,Afternoon,86.04,34.07
+20,Australia,Spotify,Country,273,178,The Weeknd,Free,Morning,46.92,22.12
+35,Canada,Spotify,Pop,240,423,Bad Bunny,Free,Morning,78.23,44.67
+21,USA,Amazon Music,Country,294,98,Taylor Swift,Premium,Morning,65.33,49.29
+60,Brazil,Apple Music,Country,397,397,Adele,Free,Morning,50.95,21.19
+38,Australia,Amazon Music,Rock,537,462,The Weeknd,Premium,Afternoon,37.08,41.06
+29,India,Tidal,Jazz,332,380,Post Malone,Premium,Night,69.53,48.37
+59,Japan,YouTube,Country,300,106,Ed Sheeran,Premium,Night,45.39,20.91
+46,Japan,Apple Music,Jazz,454,492,Billie Eilish,Free,Morning,61.69,9.86
+29,Australia,Deezer,Hip-Hop,350,186,Post Malone,Free,Night,79.12,37.13
+52,Japan,Spotify,Reggae,498,188,Ed Sheeran,Premium,Morning,11.97,8.9
+31,UK,Deezer,Pop,135,53,BTS,Free,Morning,71.98,34.28
+40,India,Tidal,R&B,450,309,BTS,Free,Night,73.78,32.67
+21,UK,Tidal,R&B,30,123,Dua Lipa,Premium,Morning,82.0,24.46
+41,Brazil,Deezer,Metal,111,280,Taylor Swift,Free,Night,33.71,67.01
+34,Japan,Tidal,R&B,483,340,Drake,Free,Morning,26.46,14.65
+46,Brazil,YouTube,Pop,597,222,Adele,Free,Afternoon,44.43,22.51
+50,Germany,YouTube,Reggae,591,303,Bad Bunny,Free,Night,37.71,17.76
+29,France,YouTube,Rock,380,294,Adele,Free,Afternoon,55.83,26.02
+60,USA,Deezer,EDM,321,331,BTS,Premium,Night,67.28,12.9
+17,Japan,YouTube,Metal,31,308,Drake,Premium,Morning,63.07,57.28
+40,India,Spotify,Metal,513,241,Post Malone,Free,Afternoon,79.75,6.21
+58,Australia,Deezer,Pop,269,412,Taylor Swift,Free,Morning,10.61,17.13
+14,Germany,Amazon Music,EDM,211,112,BTS,Free,Afternoon,88.32,13.92
+27,Canada,Tidal,Pop,392,55,Dua Lipa,Free,Morning,28.09,30.2
+51,Brazil,Spotify,Classical,537,144,Bad Bunny,Premium,Night,74.09,75.08
+39,South Korea,YouTube,Metal,478,6,Adele,Premium,Morning,62.06,59.65
+39,USA,Apple Music,Country,342,437,BTS,Premium,Morning,70.05,64.62
+38,Japan,YouTube,Reggae,37,98,BTS,Free,Afternoon,77.41,26.22
+31,USA,YouTube,EDM,332,429,Adele,Free,Morning,71.51,57.52
+60,UK,Tidal,Hip-Hop,130,119,Adele,Free,Morning,19.7,13.84
+36,Australia,Amazon Music,Classical,133,459,Taylor Swift,Free,Afternoon,82.66,49.14
+37,UK,Apple Music,R&B,522,424,Drake,Premium,Afternoon,80.15,34.38
+40,Brazil,YouTube,Classical,479,429,Ed Sheeran,Free,Afternoon,37.19,62.96
+51,Canada,Deezer,EDM,80,113,Adele,Premium,Morning,20.37,30.71
+15,France,Apple Music,Reggae,426,499,Billie Eilish,Premium,Afternoon,74.89,32.25
+59,Brazil,Amazon Music,Pop,23,234,BTS,Premium,Afternoon,59.69,76.75
+18,Australia,Spotify,Reggae,482,335,Dua Lipa,Free,Night,48.44,24.59
+58,Brazil,Tidal,Rock,376,196,Taylor Swift,Premium,Night,87.21,10.76
+42,India,Spotify,Metal,332,286,Billie Eilish,Free,Afternoon,37.16,23.72
+52,India,Tidal,Country,93,104,Ed Sheeran,Free,Morning,88.59,56.95
+44,India,Amazon Music,Metal,341,70,Bad Bunny,Free,Night,73.46,66.9
+18,UK,Spotify,Pop,363,202,Billie Eilish,Premium,Morning,45.97,72.43
+35,Germany,Tidal,Rock,584,405,Taylor Swift,Free,Morning,82.85,40.34
+23,Brazil,Spotify,Pop,93,264,Adele,Premium,Night,38.82,12.88
+39,India,Deezer,Jazz,138,210,Adele,Free,Morning,68.36,49.66
+27,France,Deezer,Pop,167,122,Post Malone,Premium,Night,22.97,60.78
+54,Canada,Amazon Music,EDM,39,276,Billie Eilish,Free,Afternoon,19.14,33.32
+36,Japan,Tidal,Pop,397,162,Ed Sheeran,Premium,Morning,29.19,44.53
+49,Australia,Apple Music,Rock,192,46,Post Malone,Premium,Afternoon,38.37,54.16
+28,USA,Apple Music,Classical,343,448,The Weeknd,Free,Morning,41.03,21.78
+43,Germany,Apple Music,R&B,196,450,Bad Bunny,Free,Morning,19.24,55.16
+55,India,Deezer,Classical,98,369,Billie Eilish,Free,Afternoon,37.37,76.7
+23,India,Deezer,Pop,347,300,The Weeknd,Free,Night,39.75,6.93
+16,India,Spotify,Rock,459,173,Adele,Premium,Night,58.37,63.59
+57,South Korea,Spotify,Rock,188,377,Bad Bunny,Free,Night,31.93,63.12
+50,Germany,Tidal,Metal,308,182,Drake,Free,Night,86.49,49.98
+30,South Korea,Amazon Music,Pop,430,408,Drake,Premium,Afternoon,59.27,75.36
+23,Canada,YouTube,R&B,295,369,Dua Lipa,Premium,Morning,77.39,49.19
+25,Australia,Apple Music,Hip-Hop,14,203,Post Malone,Free,Afternoon,39.52,46.09
+26,UK,Tidal,Hip-Hop,405,25,Drake,Premium,Morning,21.44,53.97
+21,India,Deezer,Metal,520,432,Adele,Premium,Night,50.82,50.04
+28,Japan,Deezer,EDM,144,146,Billie Eilish,Premium,Afternoon,60.49,29.61
+46,South Korea,Amazon Music,Classical,484,257,Taylor Swift,Premium,Morning,18.17,65.78
+38,South Korea,Deezer,Classical,555,138,BTS,Premium,Night,56.82,19.33
+56,France,Deezer,Metal,275,393,Ed Sheeran,Premium,Night,73.28,27.67
+27,India,Deezer,Metal,578,368,Adele,Premium,Afternoon,22.67,54.59
+40,Canada,Tidal,Pop,577,317,Bad Bunny,Premium,Afternoon,19.94,50.85
+23,Australia,Spotify,Reggae,368,323,Adele,Premium,Night,63.32,10.44
+25,Australia,Spotify,Rock,597,386,Adele,Premium,Morning,64.49,44.48
+13,Canada,Apple Music,Pop,553,353,Post Malone,Premium,Afternoon,46.17,18.96
+42,Japan,Spotify,Rock,287,205,Dua Lipa,Free,Night,79.3,5.18
+20,Australia,Amazon Music,Pop,583,287,Ed Sheeran,Free,Night,15.48,12.31
+31,India,Amazon Music,Classical,485,480,Dua Lipa,Premium,Morning,74.18,50.65
+29,USA,Apple Music,Metal,190,318,Post Malone,Free,Night,86.93,70.18
+52,India,Deezer,Country,133,202,The Weeknd,Free,Morning,64.14,26.39
+39,Japan,Tidal,Pop,291,362,Taylor Swift,Premium,Night,43.71,65.55
+24,USA,YouTube,Rock,585,306,Drake,Premium,Afternoon,77.42,10.46
+17,Brazil,YouTube,Metal,60,419,Taylor Swift,Premium,Night,59.64,39.29
+44,UK,Spotify,Reggae,216,39,Bad Bunny,Free,Night,49.39,34.84
+27,France,Amazon Music,Classical,503,429,Post Malone,Free,Night,77.53,29.29
+41,Brazil,Deezer,Rock,393,102,Bad Bunny,Premium,Morning,62.49,71.62
+23,Japan,YouTube,Rock,25,105,Post Malone,Premium,Morning,25.72,31.14
+53,Australia,YouTube,EDM,506,192,Drake,Free,Morning,54.99,16.55
+41,South Korea,Spotify,Rock,354,466,Billie Eilish,Premium,Night,51.18,37.25
+32,South Korea,Tidal,Reggae,532,288,Billie Eilish,Premium,Afternoon,82.81,73.27
+30,Germany,Spotify,Jazz,27,304,Taylor Swift,Free,Night,29.43,17.54
+21,Brazil,Amazon Music,EDM,572,101,Adele,Free,Morning,56.89,68.15
+32,Japan,YouTube,Classical,366,98,Billie Eilish,Free,Morning,84.98,32.29
+18,Germany,Spotify,Reggae,541,87,Post Malone,Free,Night,29.09,12.73
+25,South Korea,YouTube,Rock,386,246,Bad Bunny,Premium,Afternoon,41.87,15.24
+47,India,Amazon Music,Hip-Hop,297,153,Bad Bunny,Free,Night,66.73,47.74
+39,India,Amazon Music,Reggae,45,374,Ed Sheeran,Premium,Morning,58.88,39.34
+58,Canada,Deezer,Pop,342,109,Ed Sheeran,Premium,Night,36.85,66.15
+39,Germany,Apple Music,Metal,535,249,Dua Lipa,Premium,Night,65.31,76.26
+32,France,Tidal,Rock,364,87,Taylor Swift,Free,Night,21.31,32.79
+42,Canada,Deezer,Reggae,455,372,Bad Bunny,Premium,Night,35.64,62.99
+54,Brazil,Spotify,Hip-Hop,66,47,Ed Sheeran,Premium,Morning,86.59,23.24
+34,South Korea,Spotify,Rock,234,129,Post Malone,Free,Night,24.85,27.49
+32,Australia,Spotify,Jazz,314,283,Dua Lipa,Free,Night,56.92,67.56
+53,India,YouTube,Classical,105,326,Ed Sheeran,Premium,Morning,52.71,74.03
+23,India,Apple Music,Country,468,274,BTS,Free,Morning,25.19,69.14
+57,UK,Amazon Music,Hip-Hop,54,425,Post Malone,Free,Morning,62.08,53.78
+58,India,YouTube,Hip-Hop,360,154,Ed Sheeran,Premium,Morning,46.14,44.09
+56,India,Spotify,EDM,355,60,Post Malone,Premium,Night,72.02,74.68
+49,Canada,Amazon Music,Classical,353,342,The Weeknd,Free,Afternoon,56.0,17.49
+51,France,Deezer,Jazz,11,453,Billie Eilish,Premium,Night,56.98,65.53
+50,Germany,Amazon Music,Country,391,172,Taylor Swift,Free,Night,20.19,44.59
+19,UK,Tidal,Classical,364,9,Bad Bunny,Premium,Morning,16.93,29.29
+35,Japan,Amazon Music,Classical,571,309,The Weeknd,Free,Morning,14.62,16.66
+20,France,Spotify,Rock,172,200,Adele,Premium,Morning,43.97,72.46
+57,UK,YouTube,Rock,108,334,Ed Sheeran,Free,Morning,74.25,72.82
+53,Canada,Spotify,Reggae,241,500,BTS,Free,Afternoon,74.42,17.5
+55,Germany,Amazon Music,Classical,348,324,Drake,Premium,Night,17.17,7.51
+41,Australia,Apple Music,Rock,177,465,Post Malone,Free,Afternoon,30.46,62.19
+59,Japan,Apple Music,R&B,579,209,Ed Sheeran,Premium,Morning,29.8,42.09
+18,Germany,Amazon Music,Classical,475,67,The Weeknd,Premium,Morning,84.45,72.88
+48,Australia,Apple Music,Country,161,196,BTS,Free,Afternoon,42.72,79.98
+13,USA,Apple Music,Metal,552,106,Bad Bunny,Free,Morning,89.68,33.98
+18,Germany,Deezer,Metal,38,16,Dua Lipa,Premium,Night,11.06,38.07
+34,Australia,Spotify,Country,296,329,Adele,Premium,Night,22.55,26.03
+46,India,Amazon Music,R&B,507,131,Drake,Free,Morning,32.99,28.87
+49,Germany,Amazon Music,Metal,57,481,Bad Bunny,Premium,Afternoon,70.36,78.4
+56,Canada,Apple Music,Jazz,442,237,Adele,Premium,Morning,45.46,16.33
+18,Germany,Spotify,EDM,342,101,Billie Eilish,Free,Afternoon,76.79,24.83
+13,South Korea,Tidal,Classical,481,96,Bad Bunny,Premium,Morning,85.34,39.94
+33,Germany,Tidal,Hip-Hop,254,175,BTS,Free,Night,88.06,67.71
+29,Brazil,Amazon Music,EDM,450,172,Bad Bunny,Free,Night,13.73,33.9
+20,Brazil,YouTube,Rock,249,135,Dua Lipa,Premium,Afternoon,54.1,19.91
+32,Germany,Deezer,Reggae,453,53,Billie Eilish,Free,Morning,32.85,76.83
+39,USA,Apple Music,Hip-Hop,549,460,The Weeknd,Free,Afternoon,51.19,43.57
+42,Japan,Amazon Music,EDM,45,262,The Weeknd,Premium,Morning,82.1,34.57
+14,France,Deezer,Hip-Hop,265,206,Taylor Swift,Premium,Afternoon,76.89,7.75
+22,Canada,Spotify,Country,13,64,Ed Sheeran,Premium,Morning,27.3,23.04
+22,South Korea,Tidal,Reggae,155,23,Post Malone,Premium,Night,89.0,46.35
+22,Japan,Spotify,Country,407,257,Billie Eilish,Free,Afternoon,50.34,43.92
+36,India,Spotify,Metal,84,251,Taylor Swift,Premium,Night,81.41,62.91
+46,Japan,YouTube,Metal,523,78,Drake,Free,Night,85.8,48.92
+33,South Korea,Spotify,Hip-Hop,171,314,Bad Bunny,Free,Night,73.84,38.98
+40,USA,Spotify,Country,321,495,Ed Sheeran,Premium,Afternoon,29.72,28.23
+42,USA,Deezer,Jazz,233,496,Dua Lipa,Premium,Night,14.55,26.83
+32,USA,Amazon Music,EDM,511,136,Bad Bunny,Free,Night,39.58,12.02
+16,UK,YouTube,Rock,435,256,Post Malone,Free,Night,37.09,40.75
+52,South Korea,Tidal,Jazz,157,122,Drake,Free,Morning,16.56,51.44
+19,South Korea,Spotify,Reggae,262,126,BTS,Premium,Night,39.94,27.62
+14,Germany,Tidal,Rock,458,232,BTS,Premium,Afternoon,79.1,5.43
+33,Japan,YouTube,Hip-Hop,588,462,Dua Lipa,Premium,Night,64.23,12.95
+30,UK,Amazon Music,Classical,67,191,BTS,Free,Night,85.0,53.98
+39,Japan,Apple Music,Pop,553,155,Billie Eilish,Premium,Afternoon,39.17,11.94
+48,USA,Spotify,Metal,294,17,Taylor Swift,Free,Afternoon,75.49,52.47
+37,Germany,Amazon Music,Reggae,466,339,Taylor Swift,Free,Afternoon,29.1,39.14
+54,South Korea,Tidal,Hip-Hop,94,151,Dua Lipa,Premium,Afternoon,52.26,77.75
+49,Australia,YouTube,Country,427,311,Drake,Premium,Morning,72.81,23.14
+58,France,Tidal,Reggae,591,102,Billie Eilish,Premium,Afternoon,24.13,15.49
+52,UK,Amazon Music,Pop,67,391,Post Malone,Free,Afternoon,42.75,72.51
+52,UK,Deezer,Metal,148,377,Drake,Free,Afternoon,73.66,42.41
+21,South Korea,Deezer,Country,314,187,BTS,Free,Night,72.89,33.26
+23,Canada,Deezer,EDM,242,494,Dua Lipa,Free,Afternoon,30.56,18.83
+57,Australia,YouTube,Jazz,492,210,Billie Eilish,Premium,Morning,77.79,19.86
+36,France,Apple Music,Hip-Hop,322,272,Drake,Free,Afternoon,66.65,6.61
+57,Australia,Amazon Music,EDM,362,134,The Weeknd,Free,Morning,80.37,13.55
+38,France,Tidal,Country,287,35,Drake,Premium,Night,55.3,19.38
+17,South Korea,Amazon Music,Jazz,579,370,BTS,Free,Afternoon,17.74,19.84
+14,France,Deezer,Classical,202,229,Dua Lipa,Premium,Afternoon,64.56,59.51
+21,UK,Spotify,Metal,146,23,Post Malone,Free,Morning,85.76,23.26
+32,Japan,Spotify,Jazz,32,219,Ed Sheeran,Free,Afternoon,77.58,50.05
+53,India,Apple Music,Rock,547,419,Adele,Premium,Night,36.41,57.24
+33,Australia,YouTube,Metal,50,436,Taylor Swift,Free,Afternoon,61.02,39.05
+47,Japan,YouTube,Metal,553,441,Dua Lipa,Premium,Night,72.28,15.32
+31,USA,Apple Music,Rock,394,298,Taylor Swift,Free,Afternoon,22.57,23.31
+41,Brazil,Deezer,Country,103,69,Bad Bunny,Free,Afternoon,29.05,25.51
+34,Canada,YouTube,R&B,547,144,Drake,Premium,Afternoon,20.04,16.78
+44,Australia,Amazon Music,Rock,442,193,Ed Sheeran,Premium,Morning,38.48,52.28
+14,Australia,Deezer,Classical,27,489,Adele,Premium,Morning,60.34,44.74
+22,Japan,YouTube,Reggae,356,92,Taylor Swift,Free,Afternoon,84.15,26.1
+41,Canada,Apple Music,Pop,379,96,Dua Lipa,Premium,Morning,24.29,15.17
+51,USA,Spotify,R&B,271,373,Post Malone,Free,Morning,67.68,48.27
+45,USA,Deezer,Pop,139,297,Adele,Free,Afternoon,30.68,59.55
+54,Canada,Spotify,Rock,385,374,Adele,Premium,Afternoon,88.01,16.56
+26,India,Amazon Music,Jazz,407,133,The Weeknd,Premium,Night,68.8,30.96
+49,USA,Amazon Music,Metal,130,439,Billie Eilish,Free,Afternoon,72.56,57.54
+56,France,Deezer,R&B,385,455,BTS,Premium,Morning,74.91,66.65
+35,UK,Amazon Music,Rock,173,203,Bad Bunny,Premium,Night,42.14,8.39
+38,Canada,Apple Music,EDM,334,93,Ed Sheeran,Free,Morning,60.64,45.76
+15,France,Tidal,Metal,301,451,Drake,Free,Morning,37.02,27.27
+56,France,Spotify,Rock,597,375,Bad Bunny,Free,Night,28.78,15.63
+29,France,Spotify,R&B,43,163,Billie Eilish,Free,Night,75.7,10.92
+43,India,YouTube,R&B,122,466,Ed Sheeran,Free,Night,65.66,43.36
+44,USA,Amazon Music,Pop,597,223,Post Malone,Free,Night,14.14,21.76
+34,South Korea,YouTube,Metal,491,53,Drake,Premium,Afternoon,86.12,16.84
+52,Australia,Apple Music,Pop,188,176,Taylor Swift,Free,Afternoon,50.39,41.83
+20,Canada,YouTube,Jazz,325,274,The Weeknd,Free,Night,42.67,26.83
+43,South Korea,Amazon Music,Jazz,397,68,Adele,Premium,Morning,41.08,16.43
+15,France,Tidal,Metal,595,375,Taylor Swift,Premium,Afternoon,60.18,58.88
+20,Japan,YouTube,Country,203,258,Ed Sheeran,Free,Afternoon,86.35,20.39
+28,Brazil,Tidal,Classical,551,226,Taylor Swift,Premium,Night,28.76,70.06
+24,Brazil,Deezer,Pop,318,451,Post Malone,Free,Afternoon,13.73,34.15
+18,Brazil,Apple Music,Reggae,406,41,Ed Sheeran,Premium,Night,10.08,50.22
+17,India,Deezer,Hip-Hop,449,162,Adele,Premium,Night,22.56,19.7
+21,Germany,Deezer,Rock,301,8,Billie Eilish,Free,Night,16.56,32.53
+40,USA,Tidal,Reggae,231,169,Taylor Swift,Premium,Morning,76.14,21.37
+20,Canada,YouTube,R&B,97,450,Bad Bunny,Premium,Morning,53.59,36.13
+29,Brazil,YouTube,Pop,336,431,Ed Sheeran,Free,Morning,37.51,78.81
+36,Brazil,Amazon Music,Pop,387,139,Taylor Swift,Premium,Night,83.94,64.67
+29,Brazil,Amazon Music,Jazz,125,375,Dua Lipa,Free,Night,67.56,58.58
+34,Japan,Tidal,Reggae,295,138,Adele,Free,Afternoon,47.42,16.74
+38,Brazil,Tidal,Pop,226,28,Bad Bunny,Premium,Night,60.22,14.42
+45,Japan,Apple Music,Jazz,192,246,BTS,Premium,Night,83.01,24.35
+42,South Korea,YouTube,Reggae,267,169,The Weeknd,Premium,Night,50.99,48.77
+55,India,Tidal,R&B,232,459,Dua Lipa,Premium,Night,32.14,63.98
+14,India,Apple Music,Rock,542,204,Ed Sheeran,Free,Night,77.15,22.0
+42,South Korea,Deezer,Rock,517,175,Bad Bunny,Premium,Afternoon,15.9,55.3
+46,India,Spotify,Classical,600,29,Taylor Swift,Premium,Night,48.35,60.57
+39,UK,Apple Music,Metal,477,445,Adele,Free,Night,64.07,65.24
+27,Canada,Apple Music,Pop,393,324,Billie Eilish,Free,Afternoon,32.44,62.85
+60,Brazil,Apple Music,Country,84,483,The Weeknd,Free,Night,23.78,13.49
+49,South Korea,Amazon Music,Reggae,596,207,Adele,Free,Afternoon,22.98,55.74
+27,Brazil,Spotify,Rock,429,456,Taylor Swift,Free,Afternoon,24.94,72.43
+46,USA,Spotify,Metal,508,86,Billie Eilish,Free,Morning,81.14,65.51
+48,Canada,Apple Music,Pop,136,140,Ed Sheeran,Premium,Morning,82.77,77.72
+28,Australia,Deezer,Reggae,503,103,Post Malone,Premium,Afternoon,89.53,17.22
+41,France,Tidal,Rock,397,213,BTS,Premium,Afternoon,49.58,68.51
+36,USA,YouTube,Classical,83,59,Bad Bunny,Free,Morning,89.15,8.35
+59,France,Amazon Music,Pop,51,468,Bad Bunny,Free,Afternoon,76.21,68.36
+59,Germany,Spotify,R&B,489,362,The Weeknd,Free,Morning,63.77,18.28
+52,South Korea,Amazon Music,Metal,284,207,Adele,Free,Night,64.09,17.14
+28,Germany,Amazon Music,Metal,598,105,Ed Sheeran,Free,Morning,78.13,55.93
+27,South Korea,Spotify,EDM,341,364,Drake,Premium,Morning,75.28,56.92
+14,Brazil,Amazon Music,Classical,83,148,Post Malone,Free,Morning,28.63,15.96
+19,Germany,Amazon Music,Metal,141,428,Adele,Free,Morning,51.97,51.02
+55,UK,YouTube,EDM,424,363,Ed Sheeran,Premium,Night,56.56,62.77
+28,Australia,YouTube,Reggae,339,368,Ed Sheeran,Free,Night,80.61,22.31
+19,France,YouTube,Pop,463,401,Taylor Swift,Free,Morning,37.41,46.92
+49,France,Amazon Music,Jazz,45,451,Adele,Free,Morning,74.08,53.86
+56,Canada,Apple Music,Classical,507,484,Ed Sheeran,Free,Afternoon,22.76,61.08
+28,USA,Deezer,EDM,578,467,Drake,Free,Night,72.79,71.57
+44,Canada,Amazon Music,Rock,198,35,Drake,Free,Afternoon,20.87,15.08
+47,Germany,Deezer,Rock,83,30,The Weeknd,Premium,Morning,23.18,20.13
+52,UK,Deezer,R&B,111,432,Post Malone,Premium,Night,85.27,67.1
+60,UK,Deezer,Reggae,112,222,Taylor Swift,Free,Afternoon,43.07,22.33
+32,India,Deezer,Country,257,482,Billie Eilish,Free,Night,68.24,13.73
+45,India,Spotify,Hip-Hop,145,246,Drake,Free,Afternoon,86.35,77.89
+55,India,Spotify,Jazz,119,144,Taylor Swift,Free,Afternoon,11.66,57.54
+54,UK,Amazon Music,Reggae,135,449,Adele,Free,Night,61.75,29.24
+44,USA,YouTube,EDM,418,466,Bad Bunny,Free,Afternoon,52.06,46.3
+14,Canada,Amazon Music,Classical,549,288,Adele,Free,Night,65.79,38.4
+16,South Korea,Spotify,R&B,409,67,Dua Lipa,Premium,Afternoon,36.06,63.57
+27,USA,Amazon Music,Jazz,10,7,The Weeknd,Free,Afternoon,14.98,69.59
+21,France,Deezer,Rock,304,323,Drake,Free,Afternoon,35.0,16.52
+40,Japan,Deezer,Country,421,117,BTS,Premium,Afternoon,14.92,10.92
+45,Australia,Apple Music,Reggae,399,46,Drake,Free,Afternoon,80.26,9.76
+47,UK,Apple Music,Jazz,365,259,Bad Bunny,Free,Morning,15.61,66.64
+35,Germany,Amazon Music,Hip-Hop,161,410,The Weeknd,Free,Afternoon,21.74,16.81
+48,Germany,Amazon Music,Jazz,174,446,Adele,Free,Morning,44.39,52.73
+51,Canada,Tidal,Classical,376,17,Ed Sheeran,Premium,Afternoon,14.1,68.24
+59,India,Spotify,Jazz,453,5,The Weeknd,Premium,Afternoon,74.45,58.33
+57,South Korea,Spotify,Classical,344,283,Billie Eilish,Premium,Afternoon,19.38,65.88
+47,Germany,Spotify,R&B,248,318,Billie Eilish,Free,Night,47.29,71.78
+24,India,Deezer,Metal,538,259,Ed Sheeran,Free,Afternoon,17.19,10.79
+26,UK,Amazon Music,Rock,48,17,The Weeknd,Premium,Night,88.59,34.08
+46,USA,Deezer,EDM,444,18,The Weeknd,Free,Night,64.37,79.04
+46,India,Deezer,Classical,424,60,Billie Eilish,Premium,Morning,47.09,63.09
+32,Australia,Tidal,Jazz,131,127,Adele,Premium,Night,60.86,53.76
+32,Japan,Deezer,Classical,39,473,Dua Lipa,Free,Morning,88.76,22.22
+47,France,Tidal,Metal,579,144,Drake,Premium,Night,41.68,22.66
+58,Canada,Spotify,Hip-Hop,442,296,Bad Bunny,Free,Afternoon,40.92,53.64
+52,Canada,Tidal,EDM,216,74,Drake,Free,Afternoon,46.35,78.52
+41,Brazil,YouTube,Jazz,434,40,Dua Lipa,Premium,Night,71.52,40.22
+26,Australia,Tidal,EDM,433,433,Dua Lipa,Premium,Morning,67.54,30.37
+56,Germany,Amazon Music,EDM,252,278,Drake,Premium,Morning,14.49,18.62
+34,France,Spotify,Pop,133,33,Bad Bunny,Premium,Morning,65.58,26.56
+58,France,Apple Music,Country,246,381,Bad Bunny,Premium,Night,86.51,12.47
+58,Canada,Amazon Music,Country,163,12,The Weeknd,Premium,Night,80.87,23.42
+22,South Korea,Amazon Music,Hip-Hop,372,168,Billie Eilish,Free,Afternoon,24.79,63.7
+29,India,YouTube,Rock,202,129,Ed Sheeran,Free,Morning,86.41,19.45
+33,France,YouTube,Reggae,524,233,Post Malone,Premium,Morning,40.32,59.32
+51,USA,Amazon Music,Jazz,467,145,Dua Lipa,Premium,Night,64.39,21.51
+27,Germany,YouTube,R&B,505,483,Bad Bunny,Free,Afternoon,69.29,75.11
+28,Canada,Apple Music,Pop,231,363,Post Malone,Premium,Night,45.7,24.69
+25,USA,Apple Music,Hip-Hop,375,171,Adele,Free,Morning,11.32,22.57
+53,USA,YouTube,Pop,68,256,Post Malone,Premium,Afternoon,68.83,9.49
+46,Japan,Deezer,R&B,240,73,Bad Bunny,Free,Afternoon,81.16,50.25
+51,South Korea,Deezer,Reggae,331,463,Drake,Free,Morning,65.37,67.77
+47,France,Tidal,Reggae,83,250,BTS,Premium,Morning,84.4,34.33
+15,Germany,Apple Music,EDM,316,417,Drake,Premium,Night,27.59,47.3
+29,South Korea,Deezer,Rock,178,283,Post Malone,Free,Night,37.38,36.49
+43,Australia,Deezer,Metal,277,351,Billie Eilish,Free,Afternoon,55.57,74.08
+52,UK,Amazon Music,Metal,393,450,The Weeknd,Premium,Afternoon,10.8,32.94
+58,Brazil,YouTube,Metal,28,439,Post Malone,Free,Night,73.8,16.18
+40,Japan,Spotify,Classical,343,350,Taylor Swift,Free,Morning,54.75,27.9
+26,Brazil,Amazon Music,EDM,372,301,BTS,Free,Night,49.14,7.0
+25,Japan,Tidal,EDM,400,417,Billie Eilish,Free,Morning,80.36,18.91
+17,USA,Apple Music,Metal,321,399,Adele,Free,Night,12.15,59.03
+23,UK,YouTube,Pop,586,175,Adele,Free,Night,15.7,61.02
+43,Canada,Spotify,R&B,466,176,Dua Lipa,Premium,Afternoon,25.79,23.82
+56,South Korea,Spotify,Rock,458,481,Dua Lipa,Premium,Afternoon,29.83,71.45
+58,Brazil,Tidal,Classical,331,13,BTS,Premium,Night,24.45,29.6
+13,USA,Amazon Music,Metal,189,396,Bad Bunny,Free,Morning,22.46,57.88
+58,Canada,YouTube,R&B,111,70,The Weeknd,Free,Afternoon,55.58,79.98
+18,Germany,Tidal,EDM,165,319,The Weeknd,Premium,Morning,66.47,34.12
+39,Brazil,Tidal,R&B,188,53,Dua Lipa,Free,Morning,27.85,28.72
+33,UK,Spotify,Hip-Hop,193,11,Drake,Premium,Morning,39.73,52.44
+16,France,Tidal,Reggae,137,182,Dua Lipa,Premium,Night,38.21,62.04
+15,UK,Apple Music,Metal,220,415,Dua Lipa,Premium,Night,42.63,29.12
+29,South Korea,Spotify,Classical,169,293,Dua Lipa,Premium,Night,37.82,23.16
+43,Brazil,Amazon Music,Jazz,268,308,The Weeknd,Premium,Morning,63.7,13.09
+60,France,Spotify,Hip-Hop,111,313,Adele,Free,Afternoon,66.35,61.26
+40,USA,Amazon Music,Country,38,26,BTS,Free,Afternoon,13.77,17.93
+51,Australia,YouTube,Reggae,201,476,BTS,Free,Night,13.2,68.07
+38,USA,YouTube,R&B,390,27,Ed Sheeran,Free,Morning,84.24,70.64
+29,France,YouTube,R&B,108,112,Drake,Premium,Morning,35.2,36.51
+38,Brazil,YouTube,R&B,72,224,The Weeknd,Premium,Afternoon,30.89,31.3
+22,Germany,Deezer,Jazz,547,194,Post Malone,Premium,Night,82.36,69.54
+60,Germany,Deezer,R&B,593,412,BTS,Free,Afternoon,25.85,9.71
+25,South Korea,Tidal,Metal,520,459,Ed Sheeran,Free,Night,40.75,51.03
+13,Japan,YouTube,Country,138,302,Billie Eilish,Premium,Night,63.31,34.92
+51,Brazil,Apple Music,Hip-Hop,184,298,Taylor Swift,Premium,Afternoon,11.93,31.32
+17,India,Tidal,Rock,445,97,Ed Sheeran,Free,Afternoon,17.87,79.35
+38,UK,Spotify,EDM,364,410,BTS,Free,Night,11.84,73.55
+13,Brazil,YouTube,Pop,367,108,Bad Bunny,Free,Morning,34.88,73.72
+44,Canada,Spotify,Rock,12,38,Bad Bunny,Free,Night,62.69,62.29
+14,Australia,Tidal,Country,92,226,Bad Bunny,Free,Night,23.79,7.11
+58,Australia,Apple Music,Jazz,141,8,Billie Eilish,Free,Afternoon,23.63,73.39
+53,Australia,Apple Music,Hip-Hop,428,28,Billie Eilish,Premium,Afternoon,60.15,63.15
+52,Brazil,Apple Music,EDM,148,221,Drake,Free,Night,78.83,52.28
+51,South Korea,Tidal,Jazz,538,363,Dua Lipa,Premium,Morning,20.13,16.15
+34,Japan,Amazon Music,Classical,359,425,Dua Lipa,Premium,Afternoon,23.22,58.84
+58,Japan,Apple Music,Jazz,598,349,Bad Bunny,Free,Morning,44.04,74.67
+45,South Korea,Deezer,Metal,168,264,Adele,Free,Night,52.0,13.53
+19,India,Apple Music,Pop,139,468,Taylor Swift,Free,Morning,85.0,58.17
+24,France,YouTube,Pop,38,411,Drake,Free,Afternoon,25.56,33.6
+15,UK,Apple Music,Pop,401,301,Bad Bunny,Free,Morning,63.72,35.38
+31,Brazil,Tidal,Pop,545,479,Dua Lipa,Free,Afternoon,48.71,68.39
+14,Canada,Spotify,Hip-Hop,67,349,The Weeknd,Premium,Morning,35.41,26.79
+30,India,Spotify,Hip-Hop,387,245,Taylor Swift,Free,Afternoon,69.01,6.73
+52,Japan,Deezer,Rock,488,372,Dua Lipa,Free,Afternoon,16.9,27.69
+56,France,Amazon Music,Country,410,87,BTS,Free,Night,52.43,70.7
+52,UK,Deezer,Pop,558,77,Bad Bunny,Free,Night,36.5,61.94
+58,France,Tidal,R&B,397,174,Dua Lipa,Premium,Morning,38.28,40.11
+54,UK,Amazon Music,Metal,264,133,Ed Sheeran,Free,Afternoon,87.96,58.06
+23,Brazil,Apple Music,Pop,389,218,Bad Bunny,Premium,Morning,36.52,44.5
+30,India,Spotify,Hip-Hop,356,236,Billie Eilish,Premium,Night,83.8,42.57
+50,Germany,YouTube,EDM,347,430,Ed Sheeran,Premium,Afternoon,19.94,47.17
+51,France,Spotify,EDM,47,198,Ed Sheeran,Premium,Night,71.05,64.85
+42,Canada,Deezer,Reggae,201,326,Taylor Swift,Free,Night,18.98,28.7
+54,UK,Tidal,EDM,537,115,Ed Sheeran,Premium,Morning,71.61,39.9
+36,Brazil,YouTube,Pop,172,385,Drake,Free,Night,87.44,20.89
+18,UK,Spotify,Metal,585,62,Billie Eilish,Premium,Morning,77.29,59.48
+26,Brazil,Spotify,Hip-Hop,177,248,Ed Sheeran,Free,Morning,44.47,65.29
+35,Germany,YouTube,EDM,264,286,Dua Lipa,Free,Morning,68.52,17.38
+33,Canada,YouTube,Hip-Hop,525,50,Post Malone,Premium,Afternoon,65.49,66.35
+45,Japan,Apple Music,Country,217,64,Post Malone,Free,Afternoon,28.99,31.54
+54,South Korea,Spotify,Classical,385,89,The Weeknd,Premium,Afternoon,71.57,48.05
+13,USA,Tidal,Classical,336,465,Dua Lipa,Premium,Night,82.72,17.46
+34,India,Spotify,Country,563,450,The Weeknd,Premium,Night,58.15,60.7
+53,Australia,Amazon Music,Classical,25,365,Taylor Swift,Premium,Night,70.95,17.87
+58,Canada,Apple Music,Pop,234,456,Ed Sheeran,Premium,Night,81.88,75.71
+27,Australia,Amazon Music,Jazz,398,267,Billie Eilish,Premium,Night,13.57,12.79
+51,USA,YouTube,Classical,56,358,Billie Eilish,Free,Morning,56.75,62.11
+30,South Korea,Spotify,Jazz,547,13,BTS,Free,Afternoon,42.82,15.5
+40,Australia,Apple Music,Rock,481,320,The Weeknd,Premium,Afternoon,69.67,71.07
+53,Japan,Apple Music,Pop,325,118,Dua Lipa,Free,Afternoon,14.05,54.65
+45,France,Deezer,Reggae,146,403,BTS,Premium,Night,28.5,78.12
+22,UK,YouTube,Pop,588,199,Drake,Premium,Night,68.37,40.63
+39,USA,YouTube,Country,363,235,Taylor Swift,Premium,Night,32.14,75.37
+56,UK,Amazon Music,Jazz,53,85,Adele,Premium,Afternoon,41.75,77.05
+51,Japan,Apple Music,Pop,117,363,Adele,Premium,Morning,69.71,77.66
+36,UK,Apple Music,Reggae,527,172,BTS,Premium,Night,82.11,9.72
+23,Japan,Tidal,Rock,55,367,Adele,Free,Morning,78.68,73.01
+47,Germany,Apple Music,R&B,102,169,Dua Lipa,Free,Morning,13.21,23.74
+51,USA,Deezer,Rock,483,271,Dua Lipa,Free,Night,46.47,34.22
+21,Germany,Amazon Music,Hip-Hop,110,32,Post Malone,Free,Afternoon,25.76,41.95
+52,USA,Apple Music,Jazz,182,8,Ed Sheeran,Free,Night,24.29,75.82
+55,South Korea,Tidal,Jazz,450,226,Post Malone,Free,Morning,42.17,56.42
+34,USA,Apple Music,Classical,86,131,Bad Bunny,Premium,Morning,43.46,48.45
+56,Canada,Deezer,Hip-Hop,244,453,Bad Bunny,Premium,Night,72.3,76.33
+48,India,Amazon Music,Reggae,464,110,Adele,Premium,Night,77.12,41.74
+51,Australia,YouTube,Hip-Hop,414,176,Bad Bunny,Premium,Night,66.06,68.15
+54,UK,Amazon Music,R&B,388,26,Drake,Premium,Afternoon,84.52,40.83
+40,South Korea,Apple Music,R&B,143,64,Bad Bunny,Free,Afternoon,43.93,57.4
+22,USA,Deezer,Pop,316,441,BTS,Premium,Morning,81.33,18.59
+35,UK,Amazon Music,R&B,74,279,BTS,Free,Night,82.92,15.26
+59,Brazil,Deezer,EDM,419,373,Bad Bunny,Premium,Night,50.75,62.83
+35,UK,YouTube,Hip-Hop,520,380,Post Malone,Premium,Morning,62.82,73.61
+46,USA,Apple Music,EDM,366,120,BTS,Premium,Night,46.75,16.76
+23,USA,Spotify,EDM,431,56,Bad Bunny,Free,Morning,57.3,79.31
+28,Australia,Apple Music,Country,68,363,Bad Bunny,Premium,Afternoon,43.12,37.42
+16,Germany,Deezer,Hip-Hop,425,486,Billie Eilish,Free,Morning,69.08,43.88
+52,Brazil,Tidal,Rock,554,313,Adele,Free,Night,54.68,22.27
+52,India,YouTube,R&B,518,415,Dua Lipa,Premium,Night,74.02,38.71
+41,Canada,Amazon Music,Hip-Hop,458,219,Dua Lipa,Free,Morning,15.94,42.15
+18,France,Apple Music,R&B,524,268,Bad Bunny,Free,Night,17.88,7.74
+50,Germany,Deezer,Hip-Hop,13,490,Taylor Swift,Premium,Afternoon,17.01,29.59
+37,Australia,Tidal,Pop,210,306,Bad Bunny,Premium,Morning,56.66,28.55
+19,Canada,Apple Music,Hip-Hop,550,250,Dua Lipa,Premium,Afternoon,48.05,12.3
+55,India,Deezer,Pop,435,423,Bad Bunny,Free,Afternoon,72.48,54.21
+22,USA,Spotify,EDM,543,69,Adele,Premium,Afternoon,14.95,58.41
+34,Australia,Deezer,Rock,294,471,The Weeknd,Free,Afternoon,65.17,61.46
+38,Japan,Tidal,Pop,261,404,Adele,Premium,Night,15.3,66.09
+38,Japan,Deezer,Classical,91,495,BTS,Premium,Afternoon,70.12,5.83
+47,Australia,Apple Music,Pop,189,2,Adele,Free,Night,31.68,36.8
+37,UK,Deezer,Classical,299,112,Adele,Premium,Night,86.55,13.13
+57,USA,YouTube,Reggae,171,165,Post Malone,Premium,Morning,28.8,9.56
+14,Australia,Amazon Music,Jazz,267,369,BTS,Free,Night,21.35,9.97
+41,South Korea,Apple Music,Reggae,509,476,Drake,Free,Afternoon,85.64,10.74
+27,South Korea,Spotify,Metal,231,251,Ed Sheeran,Premium,Night,61.75,25.25
+23,Brazil,Spotify,Reggae,58,122,The Weeknd,Free,Morning,37.19,29.83
+40,South Korea,Deezer,Hip-Hop,224,477,Post Malone,Premium,Morning,47.21,32.51
+60,Canada,YouTube,Reggae,243,326,BTS,Free,Night,12.43,41.0
+20,USA,Tidal,Rock,29,66,Dua Lipa,Free,Night,31.08,17.26
+13,South Korea,Spotify,Hip-Hop,359,112,The Weeknd,Free,Afternoon,77.1,16.22
+41,Australia,Deezer,Reggae,439,293,Post Malone,Premium,Afternoon,81.58,75.87
+59,Australia,Spotify,Pop,494,351,BTS,Premium,Night,56.24,12.24
+21,Japan,Apple Music,Pop,345,37,Taylor Swift,Free,Night,80.94,7.91
+29,USA,Amazon Music,Jazz,366,183,Bad Bunny,Free,Morning,85.08,77.77
+40,UK,Apple Music,R&B,92,364,The Weeknd,Premium,Night,21.31,68.36
+26,India,Amazon Music,Country,358,467,BTS,Free,Morning,18.62,71.22
+17,South Korea,Tidal,Jazz,250,111,Billie Eilish,Premium,Night,80.95,8.15
+22,Japan,Spotify,Classical,477,387,Ed Sheeran,Free,Night,14.0,22.76
+46,USA,Amazon Music,R&B,18,390,Ed Sheeran,Premium,Night,42.03,6.82
+60,Japan,Amazon Music,Country,220,318,Ed Sheeran,Free,Afternoon,43.09,66.97
+43,Brazil,Spotify,Country,334,93,Drake,Premium,Night,14.16,32.85
+38,France,Tidal,Hip-Hop,361,112,Billie Eilish,Premium,Night,58.22,34.1
+45,UK,Apple Music,Jazz,191,462,BTS,Free,Afternoon,84.09,23.73
+39,Australia,Tidal,Hip-Hop,130,480,Billie Eilish,Premium,Night,23.47,48.66
+56,Australia,Tidal,Pop,284,97,BTS,Premium,Afternoon,19.05,27.92
+54,South Korea,Amazon Music,Classical,239,193,BTS,Free,Morning,64.85,70.98
+35,Germany,Spotify,Classical,394,164,Bad Bunny,Free,Morning,25.6,46.99
+51,Brazil,Apple Music,Jazz,80,448,Dua Lipa,Free,Afternoon,79.28,40.81
+28,India,Amazon Music,Reggae,426,173,Post Malone,Premium,Night,80.82,27.08
+40,UK,Apple Music,Pop,86,365,Drake,Premium,Afternoon,36.97,17.14
+57,France,Deezer,Pop,246,181,Post Malone,Free,Afternoon,54.93,40.7
+16,Australia,Deezer,Classical,45,109,Post Malone,Premium,Afternoon,29.23,37.47
+21,India,YouTube,Pop,557,232,Adele,Free,Night,79.16,41.87
+32,France,Deezer,Metal,29,391,Taylor Swift,Free,Night,52.15,50.6
+45,Brazil,YouTube,Classical,383,497,Dua Lipa,Free,Night,61.07,33.32
+35,Germany,YouTube,Pop,375,281,Billie Eilish,Free,Night,59.88,79.96
+52,France,Deezer,Country,27,471,Dua Lipa,Premium,Afternoon,82.25,43.94
+40,Germany,Apple Music,Metal,261,233,The Weeknd,Premium,Afternoon,50.69,10.23
+44,Australia,Spotify,Country,277,66,Post Malone,Premium,Afternoon,29.19,53.63
+28,Canada,Apple Music,EDM,57,189,The Weeknd,Premium,Morning,52.36,33.44
+31,UK,Tidal,EDM,475,218,BTS,Free,Afternoon,67.89,55.69
+31,South Korea,Amazon Music,Country,89,380,BTS,Premium,Afternoon,59.4,15.72
+42,Canada,Amazon Music,Reggae,453,245,Adele,Free,Night,34.75,17.47
+57,Australia,Tidal,Rock,476,90,Bad Bunny,Premium,Morning,73.99,24.54
+44,Australia,Tidal,Classical,341,500,Adele,Free,Morning,79.81,42.49
+25,Japan,YouTube,Rock,523,386,Ed Sheeran,Premium,Afternoon,72.96,67.27
+23,India,Tidal,R&B,193,454,Bad Bunny,Free,Afternoon,38.35,45.37
+28,Germany,Deezer,Metal,587,38,Ed Sheeran,Premium,Afternoon,21.37,37.6
+47,Canada,Amazon Music,Classical,335,486,Adele,Free,Afternoon,32.02,66.03
+38,UK,YouTube,Rock,123,462,BTS,Free,Morning,24.0,72.73
+34,Australia,Spotify,Rock,516,432,Post Malone,Free,Morning,65.46,43.88
+19,Australia,Deezer,Rock,402,250,Taylor Swift,Premium,Night,89.04,31.49
+49,Canada,Spotify,EDM,76,16,Post Malone,Premium,Night,58.84,38.59
+45,Brazil,Spotify,Jazz,343,229,Drake,Free,Afternoon,52.46,15.37
+21,Germany,Amazon Music,EDM,394,388,Billie Eilish,Premium,Night,48.97,19.47
+59,South Korea,Apple Music,EDM,260,134,Taylor Swift,Free,Night,31.04,36.84
+44,Brazil,YouTube,Pop,39,320,Billie Eilish,Premium,Afternoon,51.4,23.04
+24,India,Tidal,Jazz,551,479,BTS,Free,Night,69.36,73.52
+32,Germany,Amazon Music,Rock,499,253,Bad Bunny,Premium,Morning,58.68,22.36
+45,Australia,Tidal,Pop,282,110,BTS,Free,Night,86.2,9.66
+47,USA,Amazon Music,Hip-Hop,258,37,Adele,Premium,Night,24.35,13.31
+54,Australia,Tidal,Hip-Hop,202,96,Dua Lipa,Free,Afternoon,11.04,76.87
+29,Japan,Deezer,Reggae,381,151,Drake,Premium,Afternoon,31.2,13.98
+50,South Korea,Spotify,Reggae,596,119,Billie Eilish,Premium,Night,87.98,22.04
+46,USA,Apple Music,Jazz,135,445,BTS,Free,Afternoon,45.81,60.65
+48,France,Tidal,Hip-Hop,306,499,Bad Bunny,Free,Afternoon,47.41,52.13
+59,UK,Apple Music,Metal,517,270,BTS,Free,Night,61.71,38.22
+47,Australia,Deezer,Metal,102,499,The Weeknd,Free,Night,78.38,69.62
+44,Australia,Amazon Music,R&B,222,443,Post Malone,Premium,Morning,74.47,6.25
+55,Germany,Apple Music,Classical,44,256,The Weeknd,Premium,Morning,60.3,11.57
+57,South Korea,Deezer,Country,92,366,Ed Sheeran,Premium,Afternoon,16.94,47.39
+30,South Korea,YouTube,Rock,510,167,Billie Eilish,Free,Night,69.01,75.87
+33,Australia,Apple Music,Reggae,56,8,Ed Sheeran,Free,Night,68.32,32.55
+37,Australia,Spotify,Classical,257,141,Bad Bunny,Premium,Night,37.63,29.69
+21,Germany,Deezer,R&B,530,270,Billie Eilish,Free,Afternoon,32.4,79.59
+49,France,Apple Music,Classical,160,162,BTS,Premium,Morning,47.64,14.6
+29,India,Tidal,EDM,453,137,Dua Lipa,Premium,Afternoon,42.22,49.34
+27,France,Apple Music,Reggae,363,434,BTS,Free,Morning,27.29,44.63
+14,USA,Deezer,R&B,422,490,Adele,Free,Afternoon,83.1,30.06
+35,India,Deezer,Pop,81,164,Billie Eilish,Premium,Morning,86.86,56.23
+50,South Korea,Apple Music,Jazz,469,486,Post Malone,Premium,Morning,74.61,50.61
+33,India,Deezer,Country,527,293,Bad Bunny,Premium,Afternoon,41.77,61.71
+21,Canada,Deezer,Pop,258,388,Ed Sheeran,Free,Morning,85.4,45.2
+39,India,Apple Music,Classical,274,113,Drake,Premium,Afternoon,38.7,47.85
+26,USA,Deezer,Jazz,243,72,Bad Bunny,Premium,Afternoon,85.57,7.0
+22,Germany,Spotify,Rock,39,137,Billie Eilish,Premium,Afternoon,34.42,26.3
+16,Germany,YouTube,Hip-Hop,514,170,Billie Eilish,Premium,Afternoon,84.38,54.72
+52,Australia,YouTube,Metal,572,213,The Weeknd,Free,Morning,55.2,71.6
+36,France,YouTube,Metal,21,108,Adele,Premium,Afternoon,33.13,57.81
+16,Australia,Tidal,Metal,10,93,The Weeknd,Free,Afternoon,11.27,65.21
+16,Germany,Deezer,Classical,480,417,Dua Lipa,Free,Afternoon,85.72,67.14
+35,Brazil,Amazon Music,Classical,171,480,Drake,Premium,Morning,66.12,32.21
+14,Canada,YouTube,Country,57,415,Taylor Swift,Premium,Night,19.91,37.44
+35,Australia,YouTube,Country,483,332,Post Malone,Premium,Morning,60.89,43.65
+23,Brazil,Tidal,Pop,90,146,Post Malone,Premium,Morning,69.51,67.03
+60,Brazil,Apple Music,Classical,59,202,Billie Eilish,Premium,Afternoon,81.27,59.4
+32,Australia,Tidal,R&B,456,431,Adele,Free,Morning,49.98,71.3
+14,France,Tidal,Rock,367,280,Ed Sheeran,Free,Morning,36.09,79.49
+45,Japan,Deezer,Hip-Hop,277,240,Billie Eilish,Premium,Morning,43.46,73.79
+34,South Korea,Deezer,Hip-Hop,488,194,Bad Bunny,Premium,Night,71.26,53.28
+40,South Korea,Spotify,Pop,175,440,Ed Sheeran,Free,Afternoon,53.68,79.1
+24,Australia,YouTube,Reggae,518,329,Taylor Swift,Premium,Morning,29.98,30.38
+25,India,Spotify,Hip-Hop,403,268,The Weeknd,Premium,Morning,58.69,11.68
+56,USA,Spotify,R&B,296,244,Dua Lipa,Premium,Night,23.89,9.99
+58,Japan,Spotify,R&B,219,67,The Weeknd,Premium,Morning,57.43,56.33
+40,Australia,Amazon Music,Hip-Hop,367,106,Adele,Premium,Morning,70.89,49.43
+15,France,YouTube,Hip-Hop,370,21,Adele,Premium,Morning,30.98,53.79
+16,South Korea,Amazon Music,Country,335,323,Adele,Premium,Afternoon,15.97,44.26
+43,Canada,YouTube,Pop,110,379,Drake,Premium,Morning,38.58,38.17
+38,India,YouTube,Hip-Hop,431,28,Drake,Free,Afternoon,35.17,44.09
+28,Australia,YouTube,R&B,317,313,Drake,Premium,Afternoon,41.35,63.39
+59,India,YouTube,Jazz,565,343,Bad Bunny,Premium,Morning,65.5,29.46
+38,Australia,Apple Music,R&B,140,475,Bad Bunny,Free,Night,56.49,62.16
+34,Brazil,Deezer,Country,374,299,Billie Eilish,Free,Night,23.05,26.12
+29,Canada,Apple Music,Country,451,195,Ed Sheeran,Premium,Afternoon,20.99,9.39
+24,USA,Amazon Music,Classical,206,488,The Weeknd,Premium,Night,24.24,29.61
+13,USA,Tidal,Country,517,21,Adele,Free,Morning,23.52,24.33
+47,India,YouTube,Pop,25,194,The Weeknd,Premium,Morning,62.75,18.52
+41,Brazil,Tidal,Classical,249,200,Post Malone,Premium,Night,19.5,21.24
+26,UK,Apple Music,Country,367,320,Bad Bunny,Premium,Afternoon,59.45,9.22
+29,France,Amazon Music,Rock,156,241,Taylor Swift,Free,Afternoon,89.43,12.67
+35,Canada,Spotify,EDM,152,402,BTS,Premium,Night,65.69,11.37
+15,Brazil,Spotify,Pop,284,379,Post Malone,Premium,Morning,68.96,51.9
+28,USA,Tidal,EDM,152,95,BTS,Premium,Night,74.9,76.33
+41,South Korea,Deezer,Classical,394,332,Post Malone,Free,Afternoon,50.52,19.45
+44,Germany,Deezer,Pop,535,426,Adele,Premium,Night,55.83,15.01
+42,Australia,Apple Music,Rock,393,175,Post Malone,Premium,Night,52.51,48.8
+18,USA,Amazon Music,Rock,576,152,The Weeknd,Free,Night,88.62,11.76
+46,UK,Spotify,Reggae,47,225,Ed Sheeran,Free,Night,36.26,78.04
+51,India,Apple Music,Hip-Hop,390,194,Drake,Free,Morning,11.43,64.93
+22,France,Deezer,Country,439,328,Drake,Premium,Night,32.87,67.93
+27,Australia,Apple Music,Pop,481,252,Bad Bunny,Free,Morning,30.23,61.84
+40,Canada,Tidal,EDM,266,145,Ed Sheeran,Premium,Night,22.33,22.21
+25,Canada,Spotify,Country,291,305,Post Malone,Free,Morning,37.1,47.39
+49,Japan,Amazon Music,R&B,145,151,Drake,Premium,Afternoon,63.77,76.43
+51,Australia,Amazon Music,R&B,538,483,Bad Bunny,Free,Afternoon,24.26,49.85
+53,Canada,Apple Music,Classical,556,381,Adele,Premium,Afternoon,54.75,44.7
+27,Brazil,YouTube,R&B,340,315,Adele,Free,Afternoon,75.12,56.97
+27,Brazil,Spotify,R&B,532,404,The Weeknd,Premium,Night,83.89,19.51
+47,Japan,Tidal,R&B,572,373,Billie Eilish,Free,Afternoon,18.24,58.47
+46,Canada,Deezer,Pop,267,105,BTS,Free,Night,43.01,53.98
+36,India,Deezer,Metal,501,437,Ed Sheeran,Free,Afternoon,64.22,57.78
+50,South Korea,Apple Music,Pop,311,26,The Weeknd,Free,Morning,74.23,19.91
+56,UK,Apple Music,R&B,453,317,The Weeknd,Free,Afternoon,29.73,76.86
+18,South Korea,Deezer,Metal,577,277,Billie Eilish,Premium,Morning,43.26,35.99
+16,Australia,Deezer,Jazz,34,218,Drake,Premium,Morning,40.58,48.78
+21,France,Deezer,EDM,64,235,The Weeknd,Premium,Night,47.56,66.79
+33,France,YouTube,R&B,322,399,Adele,Premium,Morning,28.46,79.61
+17,USA,Apple Music,Reggae,471,325,Drake,Free,Night,69.33,78.39
+28,France,Amazon Music,Country,531,220,BTS,Free,Night,13.41,47.23
+32,Canada,Amazon Music,EDM,299,406,Drake,Premium,Night,70.8,74.3
+28,UK,YouTube,Pop,530,168,Dua Lipa,Free,Night,33.08,32.14
+30,South Korea,Deezer,Classical,452,331,BTS,Free,Night,41.58,70.44
+21,India,Amazon Music,EDM,218,27,Bad Bunny,Premium,Morning,88.09,31.22
+15,Japan,Spotify,Classical,256,57,Post Malone,Premium,Night,36.57,28.73
+41,Japan,Deezer,Reggae,590,461,Dua Lipa,Premium,Night,48.29,6.48
+45,USA,Amazon Music,Jazz,395,87,Ed Sheeran,Premium,Morning,65.11,8.03
+34,France,Apple Music,Jazz,110,18,Billie Eilish,Free,Night,43.6,6.46
+23,Canada,Tidal,Rock,263,332,Taylor Swift,Premium,Afternoon,40.25,17.68
+48,India,Tidal,Reggae,480,104,Taylor Swift,Premium,Afternoon,16.23,77.29
+50,Japan,Tidal,R&B,505,488,Adele,Free,Morning,57.35,69.98
+24,Canada,Deezer,EDM,572,465,Drake,Free,Afternoon,58.59,36.9
+44,South Korea,Deezer,Hip-Hop,301,18,Dua Lipa,Premium,Afternoon,80.07,22.87
+38,Australia,Amazon Music,Rock,151,212,Taylor Swift,Premium,Night,49.49,32.51
+15,Canada,Amazon Music,EDM,241,29,The Weeknd,Free,Morning,54.57,32.56
+15,Germany,Spotify,Classical,131,77,Adele,Free,Afternoon,67.28,29.96
+53,Canada,Deezer,Reggae,381,453,Ed Sheeran,Premium,Afternoon,35.61,43.51
+33,India,Amazon Music,R&B,308,15,Bad Bunny,Premium,Morning,30.13,75.47
+22,UK,Amazon Music,Country,381,443,Dua Lipa,Free,Afternoon,30.93,66.95
+58,South Korea,Tidal,R&B,339,38,BTS,Premium,Afternoon,52.12,60.1
+37,Brazil,Amazon Music,Pop,488,241,Dua Lipa,Premium,Morning,82.34,7.5
+49,South Korea,Tidal,Country,28,85,Adele,Free,Night,14.44,51.88
+37,South Korea,Apple Music,Reggae,256,203,Post Malone,Premium,Afternoon,22.34,42.14
+18,UK,YouTube,Country,398,203,Ed Sheeran,Free,Night,49.61,26.04
+51,Australia,Apple Music,Country,182,153,Drake,Free,Night,11.64,36.4
+32,Germany,YouTube,Rock,472,361,Adele,Premium,Morning,48.76,43.59
+51,France,YouTube,Reggae,483,208,Dua Lipa,Free,Afternoon,52.35,46.89
+24,France,Spotify,Reggae,98,150,The Weeknd,Free,Morning,17.21,20.92
+23,Japan,Spotify,Jazz,262,434,Drake,Free,Morning,18.75,55.78
+27,France,YouTube,Jazz,449,320,BTS,Free,Night,88.39,37.06
+32,Australia,Amazon Music,Reggae,543,414,The Weeknd,Premium,Morning,86.43,45.13
+25,Australia,Apple Music,Classical,312,170,BTS,Free,Afternoon,84.38,11.5
+36,Australia,Tidal,Hip-Hop,338,235,Taylor Swift,Free,Afternoon,53.97,23.67
+38,India,Amazon Music,Jazz,299,335,BTS,Free,Afternoon,43.0,48.58
+42,UK,Deezer,EDM,480,466,Bad Bunny,Free,Afternoon,36.33,75.78
+14,India,YouTube,Reggae,105,19,Drake,Free,Afternoon,63.79,40.68
+50,South Korea,Amazon Music,Rock,577,130,Billie Eilish,Free,Afternoon,63.65,38.01
+56,India,Deezer,Hip-Hop,539,474,Ed Sheeran,Free,Morning,80.29,8.02
+54,South Korea,Amazon Music,Reggae,480,145,Bad Bunny,Free,Night,76.31,53.5
+31,South Korea,Deezer,Jazz,101,346,Drake,Free,Afternoon,74.67,13.28
+18,UK,Spotify,Rock,257,128,Adele,Free,Afternoon,70.94,69.27
+57,USA,Spotify,Rock,26,333,Adele,Free,Morning,50.5,78.5
+38,Canada,YouTube,Rock,503,391,BTS,Free,Afternoon,72.93,51.75
+21,USA,Apple Music,EDM,581,281,Billie Eilish,Premium,Afternoon,83.25,42.41
+32,Canada,Spotify,R&B,392,1,Post Malone,Premium,Morning,17.94,40.9
+23,South Korea,Apple Music,Pop,145,274,BTS,Premium,Morning,49.31,58.22
+23,Japan,YouTube,Jazz,147,84,Billie Eilish,Premium,Afternoon,78.34,10.03
+45,Japan,YouTube,Hip-Hop,549,325,Bad Bunny,Premium,Afternoon,47.9,10.76
+21,India,Apple Music,Hip-Hop,100,394,Drake,Premium,Afternoon,41.72,70.28
+59,France,Spotify,EDM,327,75,Billie Eilish,Premium,Afternoon,37.97,35.82
+32,South Korea,Amazon Music,R&B,470,338,Billie Eilish,Free,Afternoon,10.49,32.62
+28,Japan,Amazon Music,Metal,45,380,Adele,Premium,Afternoon,75.54,55.07
+22,USA,YouTube,Rock,105,459,BTS,Premium,Night,61.69,42.98
+32,USA,Tidal,Jazz,228,460,Ed Sheeran,Free,Night,49.37,17.13
+43,Australia,Tidal,Pop,188,318,Taylor Swift,Premium,Night,76.66,36.47
+54,Australia,Amazon Music,Classical,268,174,Dua Lipa,Premium,Morning,26.65,10.26
+46,Brazil,Spotify,Reggae,211,318,Taylor Swift,Free,Night,38.57,72.94
+30,USA,Amazon Music,Metal,332,76,The Weeknd,Free,Morning,21.65,20.61
+53,Germany,Deezer,R&B,158,207,Bad Bunny,Premium,Night,76.78,43.72
+50,Canada,Amazon Music,Country,27,100,BTS,Free,Morning,55.6,56.29
+42,France,Deezer,EDM,317,259,Dua Lipa,Free,Morning,24.31,11.88
+20,Brazil,YouTube,Metal,417,385,Dua Lipa,Premium,Night,64.58,36.91
+59,Canada,Apple Music,Jazz,154,290,Drake,Premium,Morning,71.14,34.54
+22,Germany,Spotify,Classical,186,360,Drake,Free,Morning,66.19,76.07
+39,USA,Tidal,Jazz,581,119,Ed Sheeran,Premium,Afternoon,62.9,59.95
+31,Australia,Spotify,Pop,422,314,Dua Lipa,Premium,Afternoon,30.66,36.32
+44,Japan,Deezer,EDM,453,382,Taylor Swift,Premium,Night,61.99,70.41
+46,UK,Tidal,Classical,355,419,Post Malone,Premium,Morning,31.13,9.37
+21,Canada,YouTube,R&B,16,137,Drake,Free,Afternoon,80.46,19.4
+56,USA,YouTube,R&B,265,453,The Weeknd,Free,Night,48.87,30.41
+50,Canada,Deezer,Rock,316,119,Adele,Premium,Morning,76.28,47.82
+19,UK,Spotify,R&B,557,184,Dua Lipa,Free,Night,61.22,55.19
+49,Brazil,Amazon Music,Reggae,439,473,Drake,Premium,Morning,21.17,78.89
+47,Australia,Spotify,R&B,491,465,Billie Eilish,Premium,Night,46.14,32.82
+31,Japan,YouTube,Reggae,593,213,BTS,Premium,Morning,40.62,30.43
+56,India,Deezer,Hip-Hop,580,228,Drake,Free,Afternoon,83.14,6.03
+47,France,Apple Music,Classical,253,409,Drake,Premium,Night,87.05,65.32
+43,USA,Deezer,Rock,317,424,Post Malone,Premium,Afternoon,47.78,53.08
+21,Canada,Deezer,Country,404,471,The Weeknd,Premium,Night,86.41,24.59
+13,Japan,Spotify,Country,489,368,Billie Eilish,Premium,Afternoon,42.27,51.42
+19,UK,Amazon Music,Reggae,314,352,Dua Lipa,Premium,Afternoon,44.44,51.1
+38,South Korea,Amazon Music,Country,22,229,Dua Lipa,Premium,Night,55.45,52.78
+15,Australia,YouTube,Reggae,419,31,BTS,Free,Morning,71.32,28.63
+20,Australia,Amazon Music,Reggae,435,21,Drake,Free,Morning,19.31,11.75
+33,South Korea,YouTube,Classical,308,450,Bad Bunny,Free,Morning,32.53,65.59
+47,South Korea,Tidal,Reggae,58,346,Ed Sheeran,Free,Morning,47.73,30.35
+52,Japan,YouTube,EDM,168,166,Post Malone,Free,Morning,42.82,77.47
+50,Japan,Amazon Music,Country,148,416,Post Malone,Premium,Morning,44.38,27.45
+23,Brazil,YouTube,Rock,418,427,Adele,Premium,Night,85.22,24.92
+53,Australia,Tidal,R&B,591,425,BTS,Premium,Night,41.83,67.8
+16,France,YouTube,Pop,422,348,Dua Lipa,Premium,Morning,64.56,10.85
+25,Germany,Apple Music,Classical,215,473,Drake,Free,Morning,38.25,20.33
+42,Japan,Spotify,Reggae,255,433,Billie Eilish,Free,Morning,66.55,56.03
+16,Canada,Apple Music,Rock,536,141,Billie Eilish,Premium,Morning,45.0,63.58
+32,South Korea,Apple Music,Metal,477,108,Taylor Swift,Free,Morning,69.8,55.27
+57,Australia,Deezer,Country,323,320,The Weeknd,Premium,Night,68.08,72.74
+33,Canada,Spotify,Jazz,580,69,Dua Lipa,Premium,Morning,82.04,35.67
+19,Germany,YouTube,Hip-Hop,463,379,Adele,Free,Morning,77.31,60.39
+26,Japan,YouTube,EDM,370,4,BTS,Free,Afternoon,77.3,71.5
+21,Australia,Deezer,Country,149,264,Adele,Premium,Afternoon,41.59,53.05
+29,Brazil,Amazon Music,R&B,355,233,BTS,Premium,Morning,89.31,65.38
+17,France,Deezer,EDM,434,391,Billie Eilish,Free,Night,71.78,5.61
+21,Brazil,Tidal,Jazz,566,164,BTS,Free,Morning,29.1,19.91
+36,Brazil,Spotify,Reggae,335,391,The Weeknd,Free,Afternoon,29.46,44.64
+33,USA,Amazon Music,Jazz,320,464,Adele,Premium,Night,59.59,13.12
+41,UK,Deezer,Reggae,84,255,Bad Bunny,Premium,Morning,32.1,74.95
+14,Canada,Apple Music,Reggae,572,64,Ed Sheeran,Free,Night,26.04,48.97
+36,UK,Apple Music,Jazz,113,387,Dua Lipa,Premium,Morning,27.31,63.68
+58,Brazil,Apple Music,Pop,33,252,Bad Bunny,Premium,Afternoon,11.44,53.51
+20,Japan,Amazon Music,Country,525,387,The Weeknd,Free,Afternoon,39.21,61.38
+48,Brazil,YouTube,Metal,505,242,Post Malone,Premium,Morning,30.15,35.36
+13,Germany,Spotify,R&B,337,158,Bad Bunny,Premium,Night,74.35,31.28
+34,South Korea,YouTube,Reggae,479,479,BTS,Premium,Morning,39.88,30.56
+51,Germany,Deezer,Reggae,282,34,Dua Lipa,Premium,Night,37.34,44.18
+40,South Korea,Deezer,Rock,438,153,Billie Eilish,Free,Afternoon,33.46,71.81
+43,France,Deezer,Pop,13,299,Post Malone,Premium,Morning,88.87,69.69
